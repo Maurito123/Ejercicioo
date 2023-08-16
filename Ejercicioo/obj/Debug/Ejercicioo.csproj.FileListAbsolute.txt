@@ -1,0 +1,13 @@
+C:\Users\Alumno\source\repos\Ejercicioo\Ejercicioo\obj\Debug\Ejercicioo.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\Ejercicioo\Ejercicioo\obj\Debug\Ejercicioo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\source\repos\Ejercicioo\Ejercicioo\obj\Debug\Ejercicioo.Presentacion.FormAltaUsuario.resources
+C:\Users\Alumno\source\repos\Ejercicioo\Ejercicioo\obj\Debug\Ejercicioo.Presentacion.FormInformacionUsuario.resources
+C:\Users\Alumno\source\repos\Ejercicioo\Ejercicioo\obj\Debug\Ejercicioo.Presentacion.FormMenu.resources
+C:\Users\Alumno\source\repos\Ejercicioo\Ejercicioo\obj\Debug\Ejercicioo.Properties.Resources.resources
+C:\Users\Alumno\source\repos\Ejercicioo\Ejercicioo\obj\Debug\Ejercicioo.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Ejercicioo\Ejercicioo\obj\Debug\Ejercicioo.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Ejercicioo\Ejercicioo\bin\Debug\Ejercicioo.exe.config
+C:\Users\Alumno\source\repos\Ejercicioo\Ejercicioo\bin\Debug\Ejercicioo.exe
+C:\Users\Alumno\source\repos\Ejercicioo\Ejercicioo\bin\Debug\Ejercicioo.pdb
+C:\Users\Alumno\source\repos\Ejercicioo\Ejercicioo\obj\Debug\Ejercicioo.exe
+C:\Users\Alumno\source\repos\Ejercicioo\Ejercicioo\obj\Debug\Ejercicioo.pdb
